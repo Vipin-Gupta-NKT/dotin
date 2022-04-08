@@ -1,0 +1,18 @@
+{
+  "/[slag]": "pages/[slag].html",
+  "/_app": "pages/_app.js",
+  "/about": "pages/about.html",
+  "/api/hello": "pages/api/hello.js",
+  "/category/[slug]": "pages/category/[slug].html",
+  "/checkout": "pages/checkout.html",
+  "/contact": "pages/contact.html",
+  "/": "pages/index.html",
+  "/login": "pages/login.html",
+  "/order": "pages/order.html",
+  "/product/[slug]": "pages/product/[slug].html",
+  "/signup": "pages/signup.html",
+  "/subcategory/[slug]": "pages/subcategory/[slug].html",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
